@@ -2,7 +2,15 @@ package com.example.patterns.builder;
 
 public class Client {
     public static void main(String[] args) {
-        System.out.println("Bitan");
+        Student student = Student.getBuilder()
+                .setAddress("Kolkata")
+                .setEmail("<EMAIL>")
+                .setGender("Male")
+                .setAge(18).
+                setGradYear(2024).
+                setMajor("computer science")
+                .build();
+        System.out.println(student);
     }
 
 }
