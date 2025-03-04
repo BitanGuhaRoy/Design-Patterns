@@ -14,3 +14,6 @@ Behavioral Patterns – For object communication (e.g., Strategy, Observer).
 Featured Design Patterns:  
 1️⃣ Creational Patterns  
 Builder Pattern – Used to construct complex objects step by step.  
+
+2️⃣ Prototype Pattern – Creates new objects by copying an existing object, improving performance.  
+Registry Pattern – Manages and provides access to a set of pre-defined objects, ensuring efficient object retrieval.  
