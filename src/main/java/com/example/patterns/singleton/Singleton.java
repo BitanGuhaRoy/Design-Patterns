@@ -5,6 +5,8 @@ public class Singleton {
 
     private String data;
     private static volatile Singleton instance;
+    // Volatile makes it disabled for thread cache
+    // it is only stored in RAM.
 
     private Singleton(String data) {
         this.data = data;
