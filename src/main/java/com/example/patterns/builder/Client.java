@@ -1,5 +1,7 @@
 package com.example.patterns.builder;
 
+import java.util.LinkedList;
+
 public class Client {
     public static void main(String[] args) {
         Student student = Student.getBuilder()
