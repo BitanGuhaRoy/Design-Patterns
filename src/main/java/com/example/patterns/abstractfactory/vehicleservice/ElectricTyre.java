@@ -1,4 +1,4 @@
-package com.example.patterns.abstractfactory;
+package com.example.patterns.abstractfactory.vehicleservice;
 
 public class ElectricTyre implements Tyre {
     @Override
