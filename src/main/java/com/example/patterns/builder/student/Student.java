@@ -1,4 +1,4 @@
-package com.example.patterns.builder;
+package com.example.patterns.builder.student;
 
 public class Student {
     private int age;

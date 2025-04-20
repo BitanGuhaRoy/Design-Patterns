@@ -1,6 +1,4 @@
-package com.example.patterns.builder;
-
-import java.util.LinkedList;
+package com.example.patterns.builder.student;
 
 public class Client {
     public static void main(String[] args) {
