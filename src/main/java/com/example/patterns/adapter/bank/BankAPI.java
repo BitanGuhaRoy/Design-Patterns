@@ -1,4 +1,4 @@
-package com.example.patterns.adapter;
+package com.example.patterns.adapter.bank;
 
 public interface BankAPI {
 

@@ -1,8 +1,5 @@
-package com.example.patterns.observer;
+package com.example.patterns.observer.store;
 
-
-import java.util.ArrayList;
-import java.util.List;
 
 public class Client {
     // Notifies multiple objects or subscribers about any events that happen to the object they are observing

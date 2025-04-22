@@ -1,4 +1,4 @@
-package com.example.patterns.adapter;
+package com.example.patterns.adapter.bank;
 
 public class ICICIBankAPIImpl implements BankAPI {
     ICICIBank iicibank= new ICICIBank();

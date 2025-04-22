@@ -1,4 +1,4 @@
-package com.example.patterns.strategy;
+package com.example.patterns.strategy.discountonpayment;
 
 public class UPIMethodDiscountStrategyImpl implements DiscountStrategy {
     @Override

@@ -1,4 +1,4 @@
-package com.example.patterns.strategy;
+package com.example.patterns.strategy.discountonpayment;
 
 public class CreditCardDiscountStrategyImpl implements DiscountStrategy {
     @Override

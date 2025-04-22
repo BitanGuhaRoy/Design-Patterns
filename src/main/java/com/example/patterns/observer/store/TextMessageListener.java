@@ -1,4 +1,4 @@
-package com.example.patterns.observer;
+package com.example.patterns.observer.store;
 
 import lombok.Getter;
 import lombok.Setter;
